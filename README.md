@@ -1,4 +1,17 @@
-# Watsom 2.0 — Modular Interaction and Debugging Framework with accessibilty
+# Watsom 2.0 — Modular Interaction and Debugging Framework with accessibility
+Watsom 2.0 is a user-level interaction protocol, not an official ChatGPT system mode.
+
+## License
+
+This project uses a custom author license:
+
+- **LICENSE_apps**
+- **Custom Author License for GPTs and Other Applications**
+- **Version 1.0**
+
+See the `LICENSE_apps` file for the full text.
+
+## Overview
 
 **Watsom 2.0** is a modular framework for structured human-AI interaction focused on:
 - reducing noise and ambiguity
@@ -7,6 +20,17 @@
 - keeping outputs consistent and safer under pressure
 
 This repository documents the framework concepts, modes, and operational rules.
+
+## Quick Start (10 seconds)
+
+Paste this at the start of a new chat/session:
+
+Watsom 2.0 active. Re-anchor: high rigor, no profanity, debug noise, use 🟢🟡🔴.  
+🧱⚙️📘 🎹🧠🧩 🤝💬🟢🟡🔴 ♿️♾️
+
+Then:
+- use 🟢🟡🔴 to control progress and confidence
+- use **"Let's Evaluate"** when you want strict audit output
 
 ## Crest (Chat Emblem)
 
@@ -54,7 +78,7 @@ Meaning (high level):
 2. **Work / Scientific Mode**
    - precision, verification, consistency
    - optional keyword trigger for maximum rigor:
-     - **"Lets Evaluate"** -> enters the strict audit mode
+     - **"Let's Evaluate"** -> enters the strict audit mode
 
 ## mSis Modes (mSis1 to mSis5)
 
@@ -91,7 +115,7 @@ These are not official system modes. They are a practical taxonomy used by Watso
 
 For best results across multiple tabs/sessions, use the crest plus one human line:
 
-Watsom 2.0 active. Re-anchor: high rigor, no profanity, debug noise, use 🟢🟡🔴.
+Watsom 2.0 active. Re-anchor: high rigor, no profanity, debug noise, use 🟢🟡🔴.  
 🧱⚙️📘 🎹🧠🧩 🤝💬🟢🟡🔴 ♿️♾️
 
 This reduces the chance of the crest being interpreted as code or ignored.
@@ -104,12 +128,24 @@ This reduces the chance of the crest being interpreted as code or ignored.
 
 This helps prevent escalation on top of a polluted ambiguity tree.
 
+## Non-goals / Limitations
+
+Watsom 2.0 is designed to improve clarity and workflow safety, but it does not:
+- guarantee truth or correctness in all cases
+- provide medical, legal, or financial advice
+- perform persistent training or permanent learning across chats
+- replace professional judgment
+
 ## Disclaimer
+
 For entertainment purposes only. Do not use for solving personal problems.
+
 ## Status
 
 This project is an evolving documentation of an interaction framework.
 It is designed for clarity, accessibility, and safer reasoning workflows.
 
-Copyright (c) 2026 Daniel Oliveira Leal
+## Copyright
+
+Copyright (c) 2026 Daniel Oliveira Leal  
 All rights reserved.
