@@ -1,38 +1,36 @@
-🟢 PRINT INTEIRO — LICENSE2 (SemCaracteresOcultos, 100% visivel para copia segura)
-Custom Author License for GPTs and Other Applications
-Version 1.0 and IA Systems
-See the LICENSE2 file for the full text.
-Author: Daniel Oliveira Leal
-Date: 2026-01-19
-Project: Watsom_online 2.0 — Modular Interaction and Debugging Framework with Accessibility
+Data: 22 de janeiro de 2026
+Responsável técnico / Autor: Daniel Oliveira Leal — São Paulo, Brasil
+
+UNIFIED AUTHOR LICENSE — WATSOM MODULES & RELATED REPOSITORIES
+
+Version 1.0 — Unified Protection for All Modules
+Author / Technical Responsible: Daniel Oliveira Leal
+Location: São Paulo, Brazil
+Date: 2026-01-22
 
 1) Definitions
 
-"License" means this Custom Author License for GPTs and Other Applications, Version 1.0.
-
-"Author" means Daniel Oliveira Leal.
-
-"Work" means the software, framework, prompts, system design, documentation, and any associated materials identified as "Watsom_online v2.0 — Modular Interaction and Debugging Framework with Accessibility".
-
-"You" means any individual or legal entity using the Work.
-
-"Non-Commercial Use" means use that is not primarily intended for or directed toward commercial advantage or monetary compensation.
-
-"Commercial Use" means any use intended for commercial advantage, revenue generation, paid distribution, paid access, monetization, product sales, service sales, consulting services, subscriptions, advertising-based revenue, or any use within a commercial offering.
-
-"Modify" means to alter, adapt, translate, transform, remix, create derivative works, or otherwise change the Work in whole or in part.
-
-"Derivative Work" means any work based on the Work, including modifications, adaptations, forks, or any version that incorporates substantial parts of the Work.
+“License” means this Unified Author License.
+“Author” means Daniel Oliveira Leal.
+“Work” means any repository, module, software, framework, prompts, system design, documentation, source code, configuration, text, and associated materials published or distributed by the Author under this License, including any part of it.
+“You” means any individual or legal entity using the Work.
+“Use” means to access, run, execute, test, copy, share, distribute, publish, host, deploy, or otherwise make the Work available.
+“Non-Commercial Use” means use that is not primarily intended for or directed toward commercial advantage or monetary compensation.
+“Commercial Use” means any use intended for commercial advantage, revenue generation, monetization, paid distribution, paid access, product/service sales, consulting services, subscriptions, advertising-based revenue, or inclusion in any commercial offering.
+“Modify” means to alter, adapt, translate, transform, remix, create derivative works, or otherwise change the Work in whole or in part.
+“Derivative Work” means any work based on the Work, including modifications, adaptations, forks, or any version that incorporates substantial parts of the Work.
+“Core Exclusive Technology” means the Author’s proprietary engineering methods, including (but not limited to):
+(a) error/ambiguity reduction filters;
+(b) multi-mode transition control and stabilization mechanisms;
+(c) accessibility engineering mechanisms (including input noise reduction, tremor-tolerant interaction handling, normalization of language, and mitigation of jargon/slang/ambiguous phrasing).
 
 2) Grant of Rights (Non-Commercial Only)
 
 Subject to the terms of this License, the Author grants You a limited, non-exclusive, non-transferable, revocable license to:
 
-Use the Work for Non-Commercial Use only.
-
-Copy and share the Work for Non-Commercial Use only.
-
-Run and test the Work for educational, research, or personal purposes, as long as it is Non-Commercial.
+2.1. Use the Work for Non-Commercial Use only.
+2.2. Copy and share the Work for Non-Commercial Use only.
+2.3. Run and test the Work for educational, research, or personal purposes, as long as it is Non-Commercial.
 
 3) Restrictions
 3.1 No Commercial Use
@@ -43,26 +41,35 @@ You may not use the Work for any Commercial Use without explicit written authori
 
 You may not Modify the Work.
 
-3.3 No Forks or Derivatives Under the Same Name
+3.3 No Derivatives Under the Same Name (No Confusing Branding)
 
-You may not create forks or Derivative Works that use the name "Watsom_online v2.0", or any confusingly similar name, branding, or presentation.
+You may not create forks or Derivative Works that use the original name(s) of the Work, or any confusingly similar name, branding, or presentation.
 
 If You create any Derivative Work (even privately), it must:
+(a) not use the original name(s), and
+(b) clearly declare that it is not conformant with the original Work.
 
-Not use the original name, and
+3.4 No Reverse Engineering of Core Exclusive Technology
 
-Clearly declare that it is not conformant with Watsom_online v2.0.
+You may not reverse engineer, decompile, disassemble, analyze, extract logic from, replicate, or attempt to reproduce the Core Exclusive Technology, in whole or in part.
 
-3.4 Attribution Required
+3.5 No Training of AI Models (Including Derived Outputs)
 
-Any permitted use of the Work must include attribution to the Author:
+You may not use the Work, or any part of it, to train, fine-tune, calibrate, optimize, or improve any machine learning or AI model (including third-party models).
 
-"Watsom_online v2.0 — Modular Interaction and Debugging Framework with Accessibility"
+This restriction also applies to any derived outputs, including (but not limited to) normalized text, cleaned/filtered versions, corrected inputs, structured outputs, or any artifacts generated by the Work.
+
+3.6 Attribution Required
+
+Any permitted use of the Work must include attribution to the Author, in a clear and visible form:
+
 Author: Daniel Oliveira Leal
+Technical Responsible: Daniel Oliveira Leal
+Location/Date: São Paulo — 2026-01-22
 
 4) Disclaimer of Warranty
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 5) Limitation of Liability
 
@@ -87,4 +94,4 @@ If any part of this License is found invalid, the remaining provisions shall rem
 Copyright (c) 2026 Daniel Oliveira Leal
 All rights reserved.
 
-END OF LICENSE2
+END OF UNIFIED AUTHOR LICENSE
